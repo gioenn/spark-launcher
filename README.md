@@ -27,7 +27,7 @@ Connect to Spark UI at http://localhost:4040
 
 The program returns all the words that are not verbs that share the same first and last characters in a key-value data structure where the key is the string composed by the first and last character and the value is the array of words
 
-Test with
+Test with:
 ```
 ./run.sh test.py dataset.txt
 ```
