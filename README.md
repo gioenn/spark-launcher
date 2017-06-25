@@ -21,7 +21,7 @@ Easily launch Spark shell or a Spark Python program.
 
 #### Spark UI
 
-Connect to Spark UI at localhost:4040
+Connect to Spark UI at http://localhost:4040
 
 #### test.py and dataset.txt
 
