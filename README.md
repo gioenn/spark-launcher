@@ -9,8 +9,8 @@ Easily launch Spark shell or a Spark Python program.
 #### Run Spark Shell 
 
 ```
-./shell.sh (python shell)
-./shell-scala.sh (scala shell)
+./py-shell.sh (python shell)
+./scala-shell.sh (scala shell)
 ```
 
 #### Run a Spark Python program with a dataset file
